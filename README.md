@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayab Wazir</h1>
+<h1 align="center">Hi, I'm Sayab Wazir</h1>
 <h3 align="center">BS CS Student | Founder of FreeSoft INC | Software Developer</h3>
 
 <p align="center">
@@ -9,14 +9,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I'm a **Computer Science undergraduate (3rd Semester)** passionate about solving real-world problems.
-- 🚀 Founder & Developer at **[FreeSoft INC](https://www.freesoftinc.com/)**, where I build premium browser extensions and reliable tools.
-- 💡 Currently focusing on **Full-Stack Development, Flutter App Development, and Web APIs**.
-- 🌱 Always learning and exploring new technologies.
-- 📫 How to reach me: **admin@freesoftinc.com**
+### ABOUT ME
+- I am a Computer Science undergraduate (3rd Semester) passionate about solving real-world problems.
+- Founder & Developer at **[FreeSoft INC](https://www.freesoftinc.com/)**, where I build premium browser extensions and reliable tools.
+- Currently focusing on Full-Stack Development, Flutter App Development, and Web APIs.
+- Always learning and exploring new technologies.
+- How to reach me: **[admin@freesoftinc.com](mailto:admin@freesoftinc.com)**
 
-### 🛠️ Tech Stack & Tools
+### TECH STACK & TOOLS
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📊 GitHub Stats
+### GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayabwazir&show_icons=true&theme=radium&hide_border=true" alt="Sayab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayabwazir&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=f8fafc" alt="Sayab's GitHub Stats" />
 </p>
