@@ -27,8 +27,3 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-### GITHUB STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayabwazir&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=f8fafc" alt="Sayab's GitHub Stats" />
-</p>
