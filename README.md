@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Sayab Wazir</h1>
+**<h1 align="center">Hi, I'm Sayab Wazir</h1>**
 
-<p align="center">
+**<h2 align="center">
   <b>BS CS Student | Founder of FreeSoft INC | Software Developer</b>
-</p>
+</h2>**
 
 <p align="center">
   <a href="https://freesoftinc.com" target="_blank">
@@ -12,7 +12,7 @@
 
 ---
 
-**ABOUT ME**
+****ABOUT ME****
 
 - I am a Computer Science undergraduate (3rd Semester) passionate about solving real-world problems.
 - Founder & Lead Developer at **[FreeSoft INC](https://www.freesoftinc.com/)**, where I build premium browser extensions and reliable tools.
@@ -22,7 +22,7 @@
 
 <br>
 
-**TECH STACK & TOOLS**
+****TECH STACK & TOOLS****
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
