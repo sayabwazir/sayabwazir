@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sayab Wazir</h1>
 
-<h2 align="center">
+<p align="center">
   <b>BS CS Student | Founder of FreeSoft INC | Software Developer</b>
-</h2>
+</p>
 
 <p align="center">
   <a href="https://freesoftinc.com" target="_blank">
