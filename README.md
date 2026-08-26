@@ -9,14 +9,14 @@
 
 ---
 
-### ABOUT ME
+   **ABOUT ME**
 - I am a Computer Science undergraduate (3rd Semester) passionate about solving real-world problems.
 - Founder & Developer at **[FreeSoft INC](https://www.freesoftinc.com/)**, where I build premium browser extensions and reliable tools.
 - Currently focusing on Full-Stack Development, Flutter App Development, and Web APIs.
 - Always learning and exploring new technologies.
 - How to reach me: **[admin@freesoftinc.com](mailto:admin@freesoftinc.com)**
 
-### TECH STACK & TOOLS
+  **TECH STACK & TOOLS**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
